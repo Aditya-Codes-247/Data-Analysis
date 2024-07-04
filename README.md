@@ -1,6 +1,6 @@
 # PowerBI Analysis on Global Superstore Dataset
 
-![Dashboard Screenshot](path-to-screenshot1)
+![Dashboard Screenshot](https://github.com/Aditya-Codes-247/Data-Analysis-PowerBI-Project/blob/main/Dashboard.png)
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project demonstrates a comprehensive data analysis of the Global Superstore
 
 ## Dataset
 
-The dataset used for this analysis is the Global Superstore dataset, which includes information on orders, returns, and users. It can be downloaded from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting).
+The dataset used for this analysis is the Global Superstore dataset, which includes information on orders, returns, and users. It can be downloaded from [Kaggle](https://www.kaggle.com/datasets/shekpaul/global-superstore).
 
 ## Project Structure
 
@@ -33,10 +33,6 @@ The dataset used for this analysis is the Global Superstore dataset, which inclu
 ### 4. Creating Visualizations
 - Created various visualizations, including bar charts, line charts, pie charts, and maps, to represent the data.
 
-### 5. Adding Interactivity
-- Added slicers to filter data by different dimensions such as time, category, and region.
-- Implemented drill-throughs for detailed analysis on specific data points.
-- Utilized bookmarks for interactive storytelling.
 
 ## Key Insights
 
@@ -44,8 +40,3 @@ The dataset used for this analysis is the Global Superstore dataset, which inclu
 - **Highest Sales Regions**: United States and Europe.
 - **Significant Profit Margins**: Achieved in the technology segment.
 
-## How to Use
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/global-superstore-powerbi.git
